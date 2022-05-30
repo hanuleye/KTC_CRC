@@ -1,1 +1,1 @@
-KTC Crc32 create by BS.Jeong
+KTC Crc32 created by BS.Jeong
