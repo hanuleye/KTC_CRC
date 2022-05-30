@@ -1,14 +1,14 @@
 [update]
 newversion=1,0,0,1
 newchecksum=-1387989041
-localversion=KTC_CRC.exe
+localversion=KTC_CRC32.exe
 descr=New version is ready for download...
 
 [action]
-query=Proceed with automatic update ?
+query=업데이트를 진행하시겠습니까?
 
 [whatsnew]
-file=https://github.com/hanuleye/KTC_CRC/raw/main/whatsnew.txt
+//file=https://github.com/hanuleye/KTC_CRC/raw/main/whatsnew.txt
 
 [eula]
 file=https://github.com/hanuleye/KTC_CRC/raw/main/license.txt
@@ -23,5 +23,5 @@ filesize=1677824
 
 [application]
 appupdate=1
-appname=KTC_CRC.exe
-appcomps=KTC_CRC.exe_NEW
+appname=KTC_CRC32.exe
+appcomps=KTC_CRC32.exe_NEW
