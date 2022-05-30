@@ -1,11 +1,11 @@
 [update]
-newversion=1,0,0,1
-newchecksum=-1387989041
+newversion=1,0,0,2
+newchecksum=1389425244
 localversion=KTC_CRC32.exe
 descr=New version is ready for download...
 
 [action]
-query=query=Proceed with automatic update?
+query=Proceed with automatic update?
 
 [whatsnew]
 //file=https://github.com/hanuleye/KTC_CRC/raw/main/whatsnew.txt
@@ -19,7 +19,7 @@ count=1
 [file1]
 url=https://github.com/hanuleye/KTC_CRC/raw/main/KTC_CRC32.exe_NEW
 descr=KTC Crc32 App
-filesize=1677824
+filesize=11678336
 
 [application]
 appupdate=1
