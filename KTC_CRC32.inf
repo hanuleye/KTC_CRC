@@ -1,0 +1,27 @@
+[update]
+newversion=1,0,0,1
+newchecksum=-2016538973
+localversion=KTC_CRC.exe
+descr=New version is ready for download...
+
+[action]
+query=Proceed with automatic update ?
+
+[whatsnew]
+file=https://raw.githubusercontent.com/hanuleye/KTC_CRC/master/whatsnew.txt
+
+[eula]
+file=https://raw.githubusercontent.com/hanuleye/KTC_CRC/master/license.txt
+
+[files]
+count=1
+
+[file1]
+url=https://raw.githubusercontent.com/hanuleye/KTC_CRC/master/KTC_CRC.exe_NEW
+descr=KTC Crc32 App
+filesize=1625600
+
+[application]
+appupdate=1
+appname=KTC_CRC.exe
+appcomps=KTC_CRC.exe_NEW
