@@ -5,7 +5,7 @@ localversion=KTC_CRC32.exe
 descr=New version is ready for download...
 
 [action]
-query=업데이트를 진행하시겠습니까?
+query=query=Proceed with automatic update?
 
 [whatsnew]
 //file=https://github.com/hanuleye/KTC_CRC/raw/main/whatsnew.txt
