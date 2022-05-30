@@ -8,16 +8,16 @@ descr=New version is ready for download...
 query=Proceed with automatic update ?
 
 [whatsnew]
-file=https://raw.githubusercontent.com/hanuleye/KTC_CRC/master/whatsnew.txt
+file=https://github.com/hanuleye/KTC_CRC/raw/main/whatsnew.txt
 
 [eula]
-file=https://raw.githubusercontent.com/hanuleye/KTC_CRC/master/license.txt
+file=https://github.com/hanuleye/KTC_CRC/raw/main/license.txt
 
 [files]
 count=1
 
 [file1]
-url=https://raw.githubusercontent.com/hanuleye/KTC_CRC/master/KTC_CRC.exe_NEW
+url=https://github.com/hanuleye/KTC_CRC/raw/main/KTC_CRC32.exe_NEW
 descr=KTC Crc32 App
 filesize=1677824
 
