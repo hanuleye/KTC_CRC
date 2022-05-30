@@ -1,6 +1,6 @@
 [update]
 newversion=1,0,0,2
-newchecksum=1389425244
+newchecksum=-1015952581
 localversion=KTC_CRC32.exe
 descr=New version is ready for download...
 
@@ -19,7 +19,7 @@ count=1
 [file1]
 url=https://github.com/hanuleye/KTC_CRC/raw/main/KTC_CRC32.exe_NEW
 descr=KTC Crc32 App
-filesize=11678336
+filesize=1678336
 
 [application]
 appupdate=1
